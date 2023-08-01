@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+h1{
+    /* border-style: dotted; */
+    border-color:red black blue yellow;
+    border-width: 10px;
+    border-style: solid ;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 0px 25px 0px ;
+    outline: 10px red solid;
+    outline-offset: 10px;
+    width: 100px;
+    
+    
+}
+.abc{
+    border-color:rgb(0, 89, 255) rgba(59, 125, 52, 0.514) blue rgb(255, 0, 212);
+    border-width: 10px;
+    border-style: solid ;
+    padding: 20px;
+    margin: 30px;
+    margin-top: 50px;
+    border-radius: 0px 50px 50px 50px ;
+    outline: 10px rgb(0, 110, 255) solid;
+    outline-offset: 10px;
+    width: 100px;
+
+}
+table , td{
+    border: 2px solid red ;
+    border-collapse: collapse;
+    border-radius: 50%;
+   
+}
+img{
+    width: 500px;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: cadetblue;
+
+}
+
